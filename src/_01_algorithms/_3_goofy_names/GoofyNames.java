@@ -39,4 +39,4 @@ goofyName=goofyName+character;
 JOptionPane.showMessageDialog(null, "YOUR GOOFY NAME IS "+goofyName);
 	}
 }
-
+dji
